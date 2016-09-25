@@ -80,4 +80,4 @@ const WaterGauge = React.createClass({
   }  
 });
 
-  
+module.exports = WaterGauge;
